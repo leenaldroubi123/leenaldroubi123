@@ -39,13 +39,13 @@ Passionate about *Data Analytics, **Software Development*, and creating smart, i
 ---
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lana-aldroubi-659023349/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LanaAldroubi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leen-aldroubi-659023349/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeenAldroubi)
 
 ---
 
 ## 📊 GitHub Stats
-![Leen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LanaAldroubi&show_icons=true&theme=radical)
+![Leen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeenAldroubi&show_icons=true&theme=radical)
 
 ---
 
