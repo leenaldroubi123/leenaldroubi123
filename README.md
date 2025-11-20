@@ -45,7 +45,7 @@ Passionate about *Data Analytics, **Software Development*, and creating smart, i
 ---
 
 ## 📊 GitHub Stats
-![Lana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LanaAldroubi&show_icons=true&theme=radical)
+![Leen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LanaAldroubi&show_icons=true&theme=radical)
 
 ---
 
